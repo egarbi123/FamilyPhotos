@@ -1,2 +1,2 @@
 # FamilyPhotos
-A private social media where platform
+A private social media platform
